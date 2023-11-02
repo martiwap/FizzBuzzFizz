@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        int n = 200;
+        int n = 100;
         BuzzFizzService service = new BuzzFizzService();
 
         // Call the FizzBuzz function to get the result
