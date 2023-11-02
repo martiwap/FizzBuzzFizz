@@ -1,0 +1,15 @@
+C:\Users\martina.natale\Desktop\Development\buzzFizz\buzzFizz\bin\Debug\net7.0\buzzFizz.exe
+C:\Users\martina.natale\Desktop\Development\buzzFizz\buzzFizz\bin\Debug\net7.0\buzzFizz.deps.json
+C:\Users\martina.natale\Desktop\Development\buzzFizz\buzzFizz\bin\Debug\net7.0\buzzFizz.runtimeconfig.json
+C:\Users\martina.natale\Desktop\Development\buzzFizz\buzzFizz\bin\Debug\net7.0\buzzFizz.dll
+C:\Users\martina.natale\Desktop\Development\buzzFizz\buzzFizz\bin\Debug\net7.0\buzzFizz.pdb
+C:\Users\martina.natale\Desktop\Development\buzzFizz\buzzFizz\obj\Debug\net7.0\buzzFizz.csproj.AssemblyReference.cache
+C:\Users\martina.natale\Desktop\Development\buzzFizz\buzzFizz\obj\Debug\net7.0\buzzFizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martina.natale\Desktop\Development\buzzFizz\buzzFizz\obj\Debug\net7.0\buzzFizz.AssemblyInfoInputs.cache
+C:\Users\martina.natale\Desktop\Development\buzzFizz\buzzFizz\obj\Debug\net7.0\buzzFizz.AssemblyInfo.cs
+C:\Users\martina.natale\Desktop\Development\buzzFizz\buzzFizz\obj\Debug\net7.0\buzzFizz.csproj.CoreCompileInputs.cache
+C:\Users\martina.natale\Desktop\Development\buzzFizz\buzzFizz\obj\Debug\net7.0\buzzFizz.dll
+C:\Users\martina.natale\Desktop\Development\buzzFizz\buzzFizz\obj\Debug\net7.0\refint\buzzFizz.dll
+C:\Users\martina.natale\Desktop\Development\buzzFizz\buzzFizz\obj\Debug\net7.0\buzzFizz.pdb
+C:\Users\martina.natale\Desktop\Development\buzzFizz\buzzFizz\obj\Debug\net7.0\buzzFizz.genruntimeconfig.cache
+C:\Users\martina.natale\Desktop\Development\buzzFizz\buzzFizz\obj\Debug\net7.0\ref\buzzFizz.dll
